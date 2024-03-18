@@ -1,3 +1,5 @@
+![logo](https://github.com/JaiGuptaIsHere/JaiGuptaIsHere/blob/main/codingBanner.jpg)
+
 <h1 align="center">Hi 👋, I'm Jai Gupta</h1>
 <h3 align="center">Dedicated and Skilled Software Developer</h3>
 
